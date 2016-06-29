@@ -1,0 +1,19 @@
+{
+    "name": "codingmatters/hr-component-installer",
+    "description": "Human Resource Component Installer",
+    "type": "metapackage",
+    "keywords": ["human resource component"],
+    "homepage": "https://chronicles.codingmatters.io/human-resourse",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gab Amba",
+            "email": "gamba@gabbydgab.com",
+            "homepage": "http://www.gabbydgab.com/"
+        }
+    ],    
+    "require": {
+        "php": "^5.6 || ^7.0",
+        "roave/security-advisories": "dev-master"
+    }
+}
